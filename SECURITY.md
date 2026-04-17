@@ -2,13 +2,21 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following versions of this project currently receive security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.0  | :white_check_mark: |
+| Version | Supported |
+|---------|-----------|
+| 1.0.0   | ✅ Yes     |
 
 ## Reporting a Vulnerability
 
-Contact me via email (security@tujo.is-cool.dev)[mailto://security@tujo.is-cool.dev] Github / Discord 
+If you discover a security vulnerability, please report it responsibly by contacting:
+
+- **Email:** [security@tujo.is-cool.dev](mailto:security@tujo.is-cool.dev)
+- **GitHub:** Open an issue
+
+Please include as much detail as possible, such as:
+- A description of the vulnerability
+- Steps to reproduce the issue
+- Potential impact
+- Suggested fixes (if available)
