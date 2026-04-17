@@ -11,4 +11,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Contact me at Github / Discord
+Contact me via email (security@tujo.is-cool.dev)[mailto://security@tujo.is-cool.dev] Github / Discord 
