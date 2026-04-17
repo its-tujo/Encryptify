@@ -35,4 +35,4 @@ This project is licensed under the BSD 3-Clause License
 
 <h2>💖Like my work?</h2>
 
-Star this GitHub repo and / or follow me on github and/ or one of my socials at https://its-tujo.github.io/
+Star this GitHub repo and / or follow me on github.
